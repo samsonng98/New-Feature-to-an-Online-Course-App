@@ -1,2 +1,2 @@
 # Online-Course-Final-Project
-An updated version of the online course app with added assessment feature where students can take exams.
+Updated the online course app with an added assessment feature, allowing students to take exams. This commit includes changes to both frontend and backend components to support the new functionality.
